@@ -27,7 +27,7 @@ header{
  
     }
 
-..cabecalho-lista-item{
+.cabecalho-lista-item{
      display: inline-block;
      margin: 0 16px;
      padding: 24px 0;
@@ -72,4 +72,8 @@ secao1-titulo{
 .icon-redes{
     width: 24px;
     padding: 4px 8px;
+}
+
+.nome-img {
+    width: 30%;
 }
